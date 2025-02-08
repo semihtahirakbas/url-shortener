@@ -34,7 +34,7 @@ A simple URL shortener application.
    ```bash
      docker run -p 8080:8080 url-shortener
    ```
-- The application will be accessible at [](http://localhost:8080).
+- The application will be accessible at http://localhost:8080.
 
 ### License
 **Note**: This `README.md` is based on the limited information available from the repository. For a more detailed and accurate `README.md`, please provide additional details about the project's functionality, setup instructions, and usage examples. 
